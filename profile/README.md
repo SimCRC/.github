@@ -1,4 +1,4 @@
-## Hi there 👋
+## Weclome to SimCRC's GitHub organization 👋
 
 <!--
 

@@ -1,4 +1,4 @@
-## Welcome to SimCRC's GitHub organization 👋
+# Welcome to SimCRC's GitHub organization 👋
 
 <!--
 
@@ -11,5 +11,5 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Code snippets
+## Code snippets
 The team generated handy code snippets in R to generate script headers, ggplot templates, among others. These snippets can be found in the [`code_snippets.txt`](https://github.com/SimCRC/.github/blob/main/code_snippets.txt) file.

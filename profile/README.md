@@ -12,4 +12,4 @@
 -->
 
 # Code snippets
-The team generated handy code snippets in R to generate script headers, ggplot templates, among others. These snippets can be found in 
+The team generated handy code snippets in R to generate script headers, ggplot templates, among others. These snippets can be found in the [`code_snippets.txt`](https://github.com/SimCRC/.github/blob/main/code_snippets.txt) file.

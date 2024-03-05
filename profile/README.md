@@ -1,4 +1,4 @@
-## Weclome to SimCRC's GitHub organization 👋
+## Welcome to SimCRC's GitHub organization 👋
 
 <!--
 
@@ -10,3 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+# Code snippets
+The team generated handy code snippets in R to generate script headers, ggplot templates, among others. These snippets can be found in 

@@ -24,20 +24,20 @@ extended in future versions of the code.
 
 ### What are snippets?
 
-Snippets are pieces of re-usable boilerplate code. They are very useful
-to avoid the repetition of writing several lines of code since they are
-a way to automate the insertion of pre-made pieces of code.
+Snippets are pieces of re-usable boilerplate code. They are useful
+to avoid the repetition of writing several lines of code since they 
+automate the insertion of pre-made pieces of code.
 
 ### How to use snippets?
 
-To insert a snippet you have to write it, press `Tab`, and then select
-it from a completion list.
+To insert a snippet, start typing the first letters of the snippet's name, 
+press `Tab`, and then select it from a completion list.
 
 <img src="figs/snippet_1.png" style="width:85.0%"
 data-fig-align="center" alt="Snippet autocompletion list." />
 
-It will be inserted along with some text placeholders which you can fill
-in. To move to the next placeholder you have to press `Tab`.
+It will be inserted along with some text placeholders, which you can fill
+in. To move to the next placeholder, press `Tab`.
 
 <img src="figs/snippet_2.png" style="width:85.0%"
 data-fig-align="center"
@@ -45,9 +45,9 @@ alt="Switch between snippet placeholders by pressing `Tab`." />
 
 ### How to add new snippets?
 
-To create or customize snippets, in RStudio you have to access
-`Global Options/Code/Editing` and click into *Edit Snippets*. In that
-window you will see the list of all the snippets present in your
+To create or customize snippets, in RStudio, you have to access
+`Global Options/Code/Editing` and click on *Edit Snippets*. In that
+window, you will see the list of all the snippets present in your
 computer.
 
 To add the list of [predefined

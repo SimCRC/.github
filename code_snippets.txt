@@ -1,0 +1,35 @@
+snippet init
+#* Title: ${1:add_title}
+#* 
+#* Code function: ${2:add_description}
+#* 
+#* Creation date: `r format(Sys.Date(), "%B %d %Y")`
+#* Author: ${3:author_name}
+
+# 01 Initial Setup --------------------------------------------------------
+
+## 01.01 Clean environment ------------------------------------------------
+remove(list = ls())
+
+#* Refresh environment memory
+gc()
+
+# 01.02 Load libraries ----------------------------------------------------
+library()
+
+snippet gg_template
+${1:plot_name} <- ggplot(data    = ${2:data_name},
+                         mapping = aes(x = ${3:x_axis_name}, 
+                                       y = ${4:y_axis_name})) +
+  ${5:geom}
+
+
+
+snippet section_1
+# ${1:header_name} ------------------------------
+
+snippet section_2
+## ${1:header_name} ------------------------------
+
+snippet section_3
+### ${1:header_name} ------------------------------

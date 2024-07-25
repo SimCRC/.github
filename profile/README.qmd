@@ -22,6 +22,10 @@ To render the quarto document as an .md file you need to execute the following c
 - quarto render profile/README.qmd 
 -->
 ```
+# Additional coding resources
+
+## Multithreading with `data.table`
+
 ## Code snippets
 
 The team generated handy code snippets in R to generate script headers, ggplot templates, among others. These snippets can be found in the [`code_snippets.txt`](https://github.com/SimCRC/.github/blob/main/code_snippets.txt) file. It is important to note that these snippets can be updated and extended in future versions of the code.

@@ -28,7 +28,7 @@ To render the quarto document as an .md file you need to execute the following c
 
 Enable Multithread with data.table in Mac/Intel chips offers faster and more efficient data processing, allowing for quicker analysis of complex datasets. 
 
-[Go to the tutorial](profile/multithread/multithread.pdf)
+[Go to the tutorial](multithread/multithread.pdf)
 
 
 ## Code snippets

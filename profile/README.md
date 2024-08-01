@@ -23,7 +23,7 @@ Enable Multithread with data.table in Mac/Intel chips offers faster and
 more efficient data processing, allowing for quicker analysis of complex
 datasets.
 
-[Go to the tutorial](profile/multithread/multithread.pdf)
+[Go to the tutorial](multithread/multithread.pdf)
 
 ## Code snippets
 
